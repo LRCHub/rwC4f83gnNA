@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "RAIN",
+  "base_artist": "F/ACE",
+  "createdAt": "2026-02-08T07:13:00.070112Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Rain",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Midnight_Rain_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rain",
+      "artist": "Billy Lemos feat. Kopano",
+      "has_synced": true,
+      "path": "select/02_Rain_Billy_Lemos_feat._Kopano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rain",
+      "artist": "Billy Lemos;Kopano",
+      "has_synced": true,
+      "path": "select/03_Rain_Billy_Lemos;Kopano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rain",
+      "artist": "Billy Lemos",
+      "has_synced": true,
+      "path": "select/04_Rain_Billy_Lemos.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rain Is A Good Thing",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/05_Rain_Is_A_Good_Thing_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Whiskey And Rain",
+      "artist": "Michael Ray",
+      "has_synced": true,
+      "path": "select/06_Whiskey_And_Rain_Michael_Ray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying In the Rain",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Blue_Eyes_Crying_In_the_Rain_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying In the Rain",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/08_Blue_Eyes_Crying_In_the_Rain_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying In the Rain",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/09_Blue_Eyes_Crying_In_the_Rain_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying in the Rain (Live Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/10_Blue_Eyes_Crying_in_the_Rain_(Live_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blue Eyes Crying in the Rain (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/11_Blue_Eyes_Crying_in_the_Rain_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blue Sky Rain",
+      "artist": "Caroline Spence",
+      "has_synced": true,
+      "path": "select/12_Blue_Sky_Rain_Caroline_Spence.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bring on the Rain",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/13_Bring_on_the_Rain_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Every Storm (Runs Out Of Rain)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/14_Every_Storm_(Runs_Out_Of_Rain)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Every Storm (Runs Out Of Rain) (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/15_Every_Storm_(Runs_Out_Of_Rain)_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Georgia Rain",
+      "artist": "Trisha Yearwood",
+      "has_synced": true,
+      "path": "select/16_Georgia_Rain_Trisha_Yearwood.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RAIN",
+      "artist": "F/ACE",
+      "has_synced": false,
+      "path": "select/pl_01_RAIN_F_ACE.txt"
+    }
+  ]
+}
